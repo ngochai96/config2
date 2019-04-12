@@ -3,11 +3,6 @@ server:
 spring:
    application:
       name: medtech-service
-   datasource:
-      url: jdbc:oracle:thin:@172.16.19.115:1521:orcl       
-      username: medcenter   
-      password: ENC(Ls2gKgkX4cgkK0KumiFTUfA7oxED82tU)
-      driverClassName: oracle.jdbc.OracleDriver 
       
 eureka:
    client:
