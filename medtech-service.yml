@@ -10,5 +10,3 @@ eureka:
          defaultZone: http://eureka-server:8761/eureka/         
          
       
-ngochai:
-  name: haiha2
